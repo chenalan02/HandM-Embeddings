@@ -2,6 +2,8 @@ images/
 articles.csv
 transactions_train.csv
 hm_fashion_embeddings.npz
+*.csv
+*.csv.zip
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
